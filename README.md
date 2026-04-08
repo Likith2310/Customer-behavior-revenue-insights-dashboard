@@ -98,4 +98,6 @@ Developed an interactive dashboard including:
 
 ##  Conclusion
 
-This project demonstrates the ability to analyze real-world data, extract meaningful insights, and present them through a clean and interactive dashboard.
+This project demonstrates the end-to-end process of transforming raw data into actionable business insights using SQL and Power BI. By analyzing customer behavior and revenue patterns, the dashboard highlights key growth trends, high-value customers, top-performing products, and regional performance differences.
+The insights derived from this analysis can support data-driven decision-making, helping businesses optimize their sales strategies, improve customer retention, and identify opportunities for growth.
+Overall, this project reflects strong skills in data analysis, visualization, and storytelling, showcasing the ability to bridge the gap between data and business impact.
