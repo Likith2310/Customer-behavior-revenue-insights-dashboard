@@ -66,7 +66,7 @@ Developed an interactive dashboard including:
 
 ##  Dashboard Preview
 
-- <a href="https://github.com/Likith2310/Customer-behavior-revenue-insights-dashboard/blob/main/Dashboard.png">Dashboard</a>
+![Dashboard](Dashboard.png)
 
 ---
 
