@@ -64,6 +64,12 @@ Developed an interactive dashboard including:
 
 ---
 
+##  Dashboard Preview
+
+- <a href="https://github.com/Likith2310/Customer-behavior-revenue-insights-dashboard/blob/main/Dashboard.png">Dashboard</a>
+
+---
+
 ##  Key Insights
 
 * Revenue shows consistent growth from 2011 to 2014
@@ -71,12 +77,6 @@ Developed an interactive dashboard including:
 * Certain products dominate overall sales
 * Regional performance varies, indicating growth opportunities
 * A portion of transactions are loss-making, highlighting profitability concerns
-
----
-
-##  Dashboard Preview
-
-- <a href="https://github.com/Likith2310/Customer-behavior-revenue-insights-dashboard/blob/main/Dashboard.png">Dashboard</a>
 
 ---
 
