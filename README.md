@@ -11,6 +11,7 @@ This project analyzes customer behavior and revenue performance using SQL and Po
 * Superstore Sales Dataset
 * ~51,000 records
 * Time period: 2011 – 2014
+- <a href="https://github.com/Likith2310/Customer-behavior-revenue-insights-dashboard/blob/main/SuperStoreOrders.csv">Dataset</a>
 
 ---
 
