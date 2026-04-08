@@ -6,6 +6,18 @@ This project analyzes customer behavior and revenue performance using SQL and Po
 
 ---
 
+##  Business Questions (KPIs)
+
+* What is the total revenue generated over the given time period?
+* How has revenue trended from 2011 to 2014?
+* Which customers contribute the most to overall revenue?
+* What are the top-performing products by sales?
+* How does revenue distribution vary across different regions?
+* What proportion of transactions are loss-making?
+* Are there any patterns in customer purchasing behavior?
+
+---
+
 ##  Dataset
 
 * Superstore Sales Dataset
@@ -64,7 +76,7 @@ Developed an interactive dashboard including:
 
 ##  Dashboard Preview
 
-![Dashboard](Dashboard.png)
+- <a href="https://github.com/Likith2310/Customer-behavior-revenue-insights-dashboard/blob/main/Dashboard.png">Dashboard</a>
 
 ---
 
