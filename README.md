@@ -63,7 +63,7 @@ Developed an interactive dashboard including:
 
 ##  Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
 
 ---
 
@@ -83,6 +83,6 @@ Developed an interactive dashboard including:
 
 ---
 
-## 🙌 Conclusion
+##  Conclusion
 
 This project demonstrates the ability to analyze real-world data, extract meaningful insights, and present them through a clean and interactive dashboard.
